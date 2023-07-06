@@ -1,0 +1,134 @@
+Nama : PutriParadila
+NPM : 011200073
+
+Soal Pilihan Ganda (single/jomblo choice)
+
+1.	Soal : Gambar yang dibuat dari unsur garis dan kurva disebut ...
+a. Objek
+b. Bitmap
+c. Vektor
+d. Grafis. Layer
+e.layer
+       Jawaban:c
+
+      2. Soal :Operasi titik terbagi menjadi tiga macam,yaitu
+       A.intesitas, berdasarkan  geometri dan berdasrkan keduanya
+       B. aras titik,aras lain aras jauh
+     
+      C.Arimatika,biner,axel
+       
+       D.Aras jauh,pixel,movie
+       E.Aras lokal,Aras global
+
+
+    Jawaban :A
+
+3. Soal : Sebuah tool yang dapat digunakan untuk memanipulasi dua objek atau lebih di Adobe Illustrator disebut .
+a.Crop
+b.Expand
+c.Brush
+d. Pathfinder
+e. Artboard
+Jawaban :d
+
+4. Soal : Jika kita ingin membuat sebuah objek menjadi tiga bagian, maka tools yang dapat digunakan adalah…
+a.Unite
+b.Divide
+c.Merge
+d.Exclude
+e.Minus Front
+Jawaban :b
+
+5. Soal : Ada 2 tipe gradiasi warna yaitu ...
+a. Linear dan Radial
+b. Angular dan Linear
+c. Reflected dan Angular
+d. Radial dan Angular
+e. Linear Reflected
+Jawaban :a.
+
+Soal Pilihan Ganda (playboy/selingkuh/istri 4/multiple choice)
+
+6. Soal : Operasi Boolean Pada Citra terbagi menjadi tiga, yaitu
+a. C(x, y) = A(x, y) and B(x, y)
+b. C(x, y) = A(x, y) or B(x, y)
+c. C(x, y) = not A(x, y)
+d. x’ = x + m
+e.y’ = y +e.
+
+Jawaban : (a,b,c,)
+
+7. Soal : Operasi – operasi pada pengolahan citra dikelompokkan menjadi empat yaitu
+a.Aras titik
+b.Aras lokal 
+c.Aras global
+d.Aras objek
+e.Aras pengembangan
+
+Jawaban : (a,b,c,d)
+
+8. Soal : Operasi titik terbagi menjadi tiga macam, yaitu
+a.Intesitas
+b.Operasi pengembangan 
+c.Geomentri
+d.Cliping
+e.Keduannya
+Jawaban : (a,c,e)
+
+9. Soal : Proses digitalisasi citra ada dua macam:
+a. Digitalisasi spasial (x, y), sering disebut sebagai penerokan (sampling).
+b. Digitalisasi special (b,d),sering disebut algoritma(biner)
+c. Digitalisasi intensitas f(x, y), sering disebut sebagai kuantisasi
+d.Digitalisis intensitas (m,l) sering disebut bilangan algoritma
+e.Digitalisis intesitas (I,l) sering disebut bilangan  pixel
+Jawaban : (a,c)
+
+10. Soal:Biner yang memiliki 2 buah nilai symbol yaitu
+a.0
+b.2
+c.3
+d.4
+e.1
+Jawaban : (a,e)
+
+
+11. Soal :Citra biner (binary image) adalah citra yang hanya mempunyai dua nilai
+derajat keabuan: hitam dan putih. Meskipun saat ini citra berwarna lebih
+disukai karena memberi kesan yang lebih kaya daripada citra biner, namun
+tidak membuat citra biner mati. Pada beberapa aplikasi citra biner masih tetap
+dibutuhkan, misalnya citra logo instansi (yang hanya terdiri atas warna hitam dan
+putih), citra kode batang (bar code) yang tertera pada label barang, citra hasil
+pemindaian dokumen teks, dan sebagainya
+Jawaban :Benar
+
+12. Soal :Persepsi visual citra berwarna (color images) umumnya lebih Miskin
+dibandingkan dengan citra hitam putih (greyscale), karena itu citra
+berwarna tidak disenangi daripada citra hitam putih. Citra berwarna
+menampilkan warna objek seperti warna aslinya (meskipun tidak selalu tepat
+demikian)
+Jawaban :Salah
+
+13. Soal : Saturation
+Menyatakan tingkat kemurnian warna cahaya, yaitu mengindikasikan
+seberapa banyak warna putih diberikan pada warna. Sebagai contoh, warna
+merah adalah 100% warna jenuh (saturated color), sedangkan warna pink
+adalah warna merah dengan tingkat kejenuhan sangat rendah (karena ada
+warna putih di dalamnya). Jadi, jika hue menyatakan warna sebenarnya,
+maka saturation menyatakan seberapa dalam warna tersebu
+Jawaban :Benar
+
+14. Soal : Kecerahan (brightness).
+Kecerahan adalah kata lain untuk tidak ada cahaya. Sebagaimana telah dijelaskan
+pada bagian kegiatan kecerahan pada sebuah titik di dalam pengolahan 
+buku intensitas yang riil, tetapi sebenarnya adalah intensitas rata-rata dari
+suatu area yang melingkupinya. Sistem visual manusia mampu menyesuaikan
+dirinya dengan tingkat kecerahan (brightness level) mulai dari yang paling rendah
+sampai yang paling tinggi dengan jangkauan sebesar 1010 [MEN89
+Jawaban : Salah
+
+15. Soal : Kontur (contour)
+Kontur adalah keadaan yang ditimbulkan oleh perubahan intensitas pada pixel-
+pixel yang bertetangga. Karena adanya perubahan intensitas inilah mata kita
+mampu mendeteksi tepi-tepi (edge) objek di dalam citra
+Jawaban :Benar
+
